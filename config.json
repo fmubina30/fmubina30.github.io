@@ -9,7 +9,7 @@
     "version": "2.21",
     "sharedTheme": {
       "useHeader": true,
-      "useLogo": true,
+      "useLogo": false,
       "isPortalSupport": true
     },
     "customStyles": {
@@ -22,7 +22,7 @@
   "title": "WebGIS Bangunan DKI Jakarta - Masagus AFM",
   "subtitle": "with ArcGIS Web AppBuilder",
   "keepAppState": true,
-  "logo": "images/app-logo.png",
+  "logo": "images/logo.png",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
   "links": [],
   "widgetOnScreen": {
@@ -478,5 +478,7 @@
   "dataSource": {
     "dataSources": {},
     "settings": {}
-  }
+  },
+  "logoAlt": "",
+  "logoLink": ""
 }

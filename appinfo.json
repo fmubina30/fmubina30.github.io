@@ -2,6 +2,8 @@
   "name": "WebGIS_Masagus",
   "description": "",
   "createdTime": 1636999090330,
-  "lastUpdated": 1637079165993,
-  "creator": "wildan.m_ba21"
+  "lastUpdated": 1637161291588,
+  "creator": "wildan.m_ba21",
+  "icon": "images/icon.jpeg",
+  "thumbnail": "images/thumbnail.jpeg"
 }
