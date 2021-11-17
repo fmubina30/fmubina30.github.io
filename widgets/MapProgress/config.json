@@ -1,0 +1,12 @@
+{
+  "mapprogressimage": "images/busy-indicator.gif"
+}
+{
+
+  "uri": "widgets/MapProgress/Widget",
+
+  "version": "2.14",
+
+  "visible": false
+
+}
