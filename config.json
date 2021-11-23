@@ -21,7 +21,7 @@
   "authorizedCrossOriginDomains": [],
   "title": "WebGIS Bangunan DKI Jakarta - Masagus AFM",
   "subtitle": "with ArcGIS Web AppBuilder",
-  "keepAppState": true,
+  "keepAppState": false,
   "logo": "images/logo.png",
   "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
   "links": [],
